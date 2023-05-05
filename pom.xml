@@ -34,11 +34,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-<distributionManagement>
+      <distributionManagement>
   <repository>
     <id>github</id>
-    <name>GitHub Packages</name>
-    <url>https://github.com/haticesimsekehm/CICDCT</url>
+    <name>CICDCT</name>
+    <url>https://maven.pkg.github.com/haticesimsekehm/CICDCT</url>
   </repository>
 </distributionManagement>
 </project>
